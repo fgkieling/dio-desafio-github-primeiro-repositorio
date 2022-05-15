@@ -1,0 +1,12 @@
+**git commit -m "um cometário que identifique"** para commitar 
+
+**git status** ver o que temos
+
+**ctrl l** limpar tela
+
+**cd + nome da pasta** vai para a pasta descrita
+
+**ls** loista o que tem na pasta
+
+**git clone + url copiada do repositório** copia o repositório do GitHub para computador local
+
